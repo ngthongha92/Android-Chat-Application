@@ -3,3 +3,5 @@ how to run:
 2. Now start Andychat on android emulator.
 
 have fun! code by andy and thongnguyen - Axon Active @ Co
+
+java code write 2014
